@@ -25,10 +25,10 @@ It uses the **Credit Card Fraud Detection** dataset and covers the full MLOps cy
 ### Setup
 
 1. **Clone the repository**
-   ``` bash
-   git clone https://github.com/zhuckan/Classic-ML-and-MLOps-Basics.git
-   cd Classic-ML-and-MLOps-Basics
-   ```
+  ``` bash
+  git clone https://github.com/zhuckan/Classic-ML-and-MLOps-Basics.git
+  cd Classic-ML-and-MLOps-Basics
+  ```
 2. **Install dependencies**
 
   ``` bash
@@ -56,11 +56,13 @@ It uses the **Credit Card Fraud Detection** dataset and covers the full MLOps cy
 docker-compose up --build
 ```
 
-**Project Structure**
+## Project Structure
 
--task1.py — main training pipeline
--app.py — FastAPI application
--creditcard.csv.dvc — DVC metadata file for the dataset
--Dockerfile, docker-compose.yml — containerization files
--requirements.txt — Python dependencies
--task_1(Classic ML + MLOps Basics).ipynb — original notebook (for reference)
+| File | Description |
+|------|-------------|
+| `task1.py` | Main training pipeline |
+| `app.py` | FastAPI application |
+| `creditcard.csv.dvc` | DVC metadata file for the dataset |
+| `Dockerfile`, `docker-compose.yml` | Containerization files |
+| `requirements.txt` | Python dependencies |
+| `task_1(Classic ML + MLOps Basics).ipynb` | Original notebook (for reference) |
