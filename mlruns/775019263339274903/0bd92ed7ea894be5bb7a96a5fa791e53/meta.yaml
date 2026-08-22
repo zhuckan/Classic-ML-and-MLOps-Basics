@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sophie/Team.Inno1/mlruns/775019263339274903/0bd92ed7ea894be5bb7a96a5fa791e53/artifacts
+end_time: 1787064554233
+entry_point_name: ''
+experiment_id: '775019263339274903'
+lifecycle_stage: active
+run_id: 0bd92ed7ea894be5bb7a96a5fa791e53
+run_name: Random Forest_Training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787064274440
+status: 3
+tags: []
+user_id: sophie

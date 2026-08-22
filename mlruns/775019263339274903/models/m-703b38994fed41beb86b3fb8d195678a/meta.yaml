@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sophie/Team.Inno1/mlruns/775019263339274903/models/m-703b38994fed41beb86b3fb8d195678a/artifacts
+creation_timestamp: 1787064551307
+experiment_id: '775019263339274903'
+last_updated_timestamp: 1787064554230
+model_id: m-703b38994fed41beb86b3fb8d195678a
+model_type: null
+name: best_model
+source_run_id: 0bd92ed7ea894be5bb7a96a5fa791e53
+status: 2
+status_message: null
